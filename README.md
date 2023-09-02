@@ -1,8 +1,8 @@
 # Welcome to my world 👋
 
-- 🔭 Hoje trabalho dando aula de Física. 
-- 🌱 Estudando HTML | CSS | JavaScript.
-- 👯 Buscando minha primeira Vaga.
+- 🔭 Hoje trabalho como freelance. 
+- 🌱 Estudando Typescrypt | React | JavaScript.
+- 👯 Buscando minha primeira Vaga como Dev-front-end.
 
 <div>
   <a href="https://github.com/breno-saraiva">
