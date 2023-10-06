@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como freelance. 
 - 🌱 Estudando Typescrypt | React | JavaScript.
-- 👯 Buscando minha primeira Vaga como Dev-front-end.
+- 👯 Buscando minha primeira Vaga como Dev front-end.
 
 <div>
   <a href="https://github.com/breno-saraiva">
