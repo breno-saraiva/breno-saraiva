@@ -1,7 +1,7 @@
 # Welcome to my world 👋
 
 - 🔭 Hoje trabalho como freelance. 
-- 🌱 Estudando Typescrypt | React | JavaScript.
+- 🌱 Estudando React | JavaScript.
 - 👯 Buscando minha primeira Vaga como Dev front-end.
 
 <div>
