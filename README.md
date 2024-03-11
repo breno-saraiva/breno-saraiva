@@ -1,8 +1,8 @@
 # Welcome to my world 👋
 
-- 🔭 Hoje trabalho como freelance. 
-- 🌱 Estudando React | JavaScript.
-- 👯 Buscando minha primeira Vaga como Dev front-end.
+- 🔭 Hoje trabalho como estágiario na LIV Saúde. 
+- 🌱 Estudando React | TypeScript.
+- 👯 Buscando minha primeira Vaga como Dev front-end jr.
 
 <div>
   <a href="https://github.com/breno-saraiva">
