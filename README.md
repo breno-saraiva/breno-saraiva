@@ -1,8 +1,6 @@
 # Welcome to my world 👋
 
-- Hoje trabalho como estágiario na LIV Saúde. 
-- Estudando React | TypeScript.
-- Buscando minha primeira Vaga como Dev front-end jr.
+- Hoje trabalho como Dev front-end no ICC-Instituto do Cancer do Ceará. 
 
 <div>
   <a href="https://github.com/breno-saraiva">
